@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="TargetSimpul" size="100.000000 100.000000" />
+    <ImageTarget name="ATarget" size="100.000000 100.058891" />
+    <ImageTarget name="BTarget" size="100.000000 100.000000" />
+    <ImageTarget name="CTarget" size="100.000000 100.058891" />
+    <ImageTarget name="DTarget" size="100.000000 100.000000" />
+    <ImageTarget name="ETarget" size="100.000000 100.058891" />
+    <ImageTarget name="FTarget" size="100.000000 100.058891" />
+    <ImageTarget name="GTarget" size="100.000000 100.000000" />
+    <ImageTarget name="HTarget" size="100.000000 100.058891" />
+    <ImageTarget name="ITarget" size="100.000000 100.000000" />
+    <ImageTarget name="JTarget" size="100.000000 100.000000" />
+    <ImageTarget name="KTarget" size="100.000000 100.000000" />
+    <ImageTarget name="LTarget" size="100.000000 100.000000" />
+    <ImageTarget name="MTarget" size="100.000000 100.058891" />
+    <ImageTarget name="NTarget" size="100.000000 100.000000" />
+    <ImageTarget name="OTarget" size="100.000000 100.000000" />
+    <ImageTarget name="PTarget" size="100.000000 100.000000" />
+    <ImageTarget name="QTarget" size="100.000000 100.058891" />
+    <ImageTarget name="RTarget" size="100.000000 100.058891" />
+    <ImageTarget name="STarget" size="100.000000 100.000000" />
+    <ImageTarget name="TTarget" size="100.000000 100.000000" />
+    <ImageTarget name="UTarget" size="100.000000 100.058929" />
+    <ImageTarget name="VTarget" size="100.000000 100.058891" />
+    <ImageTarget name="WTarget" size="100.000000 100.000000" />
+    <ImageTarget name="XTarget" size="100.000000 100.058891" />
+    <ImageTarget name="YTarget" size="100.000000 100.000000" />
+    <ImageTarget name="ZTarget" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>
